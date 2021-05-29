@@ -1,0 +1,20 @@
+{
+  "name": "minentu-landing-page-v1-vuepress",
+  "version": "0.0.1",
+  "description": "MineNTU Landing Page",
+  "main": "index.js",
+  "authors": {
+    "name": "Max Yi-Hsun Chou",
+    "email": "maxchou415@gmail.com"
+  },
+  "repository": "git@github.com:MinecraftNTU/landing-page-v1.git/minentu-landing-page-v1-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "vuepress": "^1.5.3"
+  }
+}

@@ -38,14 +38,14 @@ module.exports = {
         text: '申請規則',
         link: '/requests/'
       },
-      {
-        text: '送我們一些椰子 🥥',
-        link: 'https://paypal.me/maxchou'
-      },
-      {
-        text: '作者群',
-        link: '/team/'
-      },
+      // {
+      //   text: '作者群',
+      //   link: '/team/'
+      // },
+      // {
+      //   text: '送我們一些椰子 🥥',
+      //   link: 'https://paypal.me/maxchou'
+      // },
       {
         text: '我要加入 🐵',
         link: 'https://forms.gle/XSyaXqTk6knEvFpUA'

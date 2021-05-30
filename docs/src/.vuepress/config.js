@@ -13,7 +13,8 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css' }]
   ],
 
   /**
@@ -38,10 +39,10 @@ module.exports = {
         text: '申請規則',
         link: '/requests/'
       },
-      // {
-      //   text: '作者群',
-      //   link: '/team/'
-      // },
+      {
+         text: '作者群',
+         link: '/team/'
+       },
       // {
       //   text: '送我們一些椰子 🥥',
       //   link: 'https://paypal.me/maxchou'
@@ -65,6 +66,34 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    '@vuepress/nprogress'
+    '@vuepress/nprogress',
+    ['container', {
+      type: 'important',
+      defaultTitle: '',
+    }],
+    ['container', {
+      type: 'col-wrapper',
+      defaultTitle: '',
+    }],
+    ['container', {
+      type: 'col-full',
+      defaultTitle: '',
+    }],
+    ['container', {
+      type: 'col-half',
+      defaultTitle: '',
+    }],
+    ['container', {
+      type: 'col-pic',
+      defaultTitle: '',
+    }],
+    ['container', {
+      type: 'col-word',
+      defaultTitle: '',
+    }],
+    ['container', {
+      type: 'col-third',
+      defaultTitle: '',
+    }],
   ]
 }

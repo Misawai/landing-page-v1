@@ -74,7 +74,9 @@ module.exports = {
       hostname: 'https://minecraft.myntu.me'
     }],
     ['seo', {
-      author: (_, $site) => 'MineNTU 臺大麥塊'
+      author: (_, $site) => 'MineNTU 臺大麥塊',
+      siteTitle: (_, $site) => $site.title,
+      title: ($page, $site) => `${$page.title} | ${$site.title}`
     }],
     ['container', {
       type: 'important',

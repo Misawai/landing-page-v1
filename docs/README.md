@@ -5,7 +5,7 @@
 Pull Request for content change is **NOT** welcome on this repository.
 
 We won't review your pull request if:
-1. It is related to content change such as change rule, change images...etc.
+1. It is related to content change, such as change rule, change images...etc.
 
 ### Eligible
 We encouraged you to submit pull request for any engineering-related issue and optimization.

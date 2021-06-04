@@ -67,9 +67,12 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/nprogress',
-    ['@vuepress/plugin-google-analytics',
-      { ga: 'G-WCSSK6H6FC'}
-    ],
+    ['@vuepress/plugin-google-analytics', {
+        id: 'G-WCSSK6H6FC',
+    }],
+    ['sitemap', {
+      hostname: 'https://minecraft.myntu.me'
+    }],
     ['container', {
       type: 'important',
       defaultTitle: '',

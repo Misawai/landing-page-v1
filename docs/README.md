@@ -13,4 +13,4 @@ We encouraged you to submit pull request for any engineering-related issue and o
 We accept PR from either NTU and non-NTU users.
 
 ### Code Convention
-If you have modified any Javascript file, please follow the Standard Js rules.
+If you have modified any Javascript file, please make sure you are following the Standard Js rules.

@@ -68,10 +68,13 @@ module.exports = {
     '@vuepress/plugin-medium-zoom',
     '@vuepress/nprogress',
     ['@vuepress/google-analytics', {
-        id: 'G-WCSSK6H6FC',
+        ga: 'G-WCSSK6H6FC',
     }],
     ['sitemap', {
       hostname: 'https://minecraft.myntu.me'
+    }],
+    ['seo', {
+      author: (_, $site) => 'MineNTU 臺大麥塊'
     }],
     ['container', {
       type: 'important',

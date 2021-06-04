@@ -15,7 +15,8 @@
   "license": "MIT",
   "devDependencies": {
     "@vuepress/plugin-nprogress": "^1.8.2",
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-seo": "^0.1.4"
   },
   "dependencies": {
     "@vuepress/plugin-google-analytics": "^1.8.2",

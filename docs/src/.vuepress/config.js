@@ -67,7 +67,7 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/nprogress',
-    ['@vuepress/plugin-google-analytics', {
+    ['@vuepress/google-analytics', {
         id: 'G-WCSSK6H6FC',
     }],
     ['sitemap', {

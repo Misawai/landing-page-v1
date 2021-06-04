@@ -67,9 +67,9 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/nprogress',
-    ['@vuepress/google-analytics', {
-      'ga': 'G-WCSSK6H6FC'
-    }],
+    ['@vuepress/plugin-google-analytics',
+      { ga: 'G-WCSSK6H6FC'}
+    ],
     ['container', {
       type: 'important',
       defaultTitle: '',

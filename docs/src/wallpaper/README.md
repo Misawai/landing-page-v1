@@ -4,14 +4,14 @@ sidebar: auto
 
 # 素材下載
 
-最近因為疫情影響讓各位台大的夥伴們無法回到校園，我們都知道各位非常懷念在校園中相聚的日子。
-在此，MineNTU 麥塊臺大 決定推出臺大麥塊風景套裝，讓想念台大的各位就算疫情期間在家工作、在家廢，也能看見美麗的臺大校園！
+最近因為疫情影響讓各位臺大的夥伴們無法回到校園，我們都知道各位非常懷念在校園中相聚的日子。
+在此，MineNTU 麥塊臺大 決定推出臺大麥塊風景套裝，讓想念臺大的各位就算疫情期間在家工作、在家廢，也能看見美麗的臺大校園！<br>
 ***Build NTU and STAY SAFE!***
 
 <i class="fab fa-creative-commons-nc"></i> 以下圖片歡迎在 **非營利且合理範圍內** 自由使用。
 
-## <i class="fas fa-desktop"></i> 桌布下載
-### 總圖
+## <i class="fas fa-desktop"></i> 桌布
+### 總圖（總圖書館）
 :::::: col-wrapper
 ::: col-third
 ![](/images/wallpaper/l1-500x.jpg)<br>
@@ -83,12 +83,28 @@ sidebar: auto
 [**<i class="fas fa-download"></i> 下載**](/images/wallpaper/downloads/f2.jpg)
 :::
 ::::::
-
-## <i class="fas fa-video"></i> 視訊背景下載
+#### <i class="fas fa-hammer"></i> 製作群
+:::::: col-wrapper
+::: col-half
+<i class="fas fa-user-circle"></i> 圖資四 呂宜家 **ByU0123790**<br>
+:::
+::: col-half
+<i class="fas fa-user-circle"></i> 園藝四 **HippoCO**<br>
+:::
+::::::
+## <i class="fas fa-video"></i> 視訊背景
 ### 拍畢業照囉
+:::::: col-wrapper
+::: col-half
 ![](/images/background/b_g1-500x.jpg)<br>
 [**<i class="fas fa-download"></i> 下載**](/images/background/downloads/b_g1.jpg)
-### 我就愛在總圖吹冷氣
+:::
+::: col-half
+![](/images/background/b_y1-500x.jpg)<br>
+[**<i class="fas fa-download"></i> 下載**](/images/background/downloads/b_y1.jpg)
+:::
+::::::
+### 總圖吹冷氣
 :::::: col-wrapper
 ::: col-half
 ![](/images/background/b_l1-500x.jpg)<br>
@@ -152,6 +168,17 @@ sidebar: auto
 ### 邊打球邊開會
 ![](/images/background/b_f1-500x.jpg)<br>
 [**<i class="fas fa-download"></i> 下載**](/images/background/downloads/b_f1.jpg)
+#### <i class="fas fa-hammer"></i> 製作群
+:::::: col-wrapper
+::: col-half
+<i class="fas fa-user-circle"></i> 資管四 方譽霖 **KennyFang**<br>
+<i class="fas fa-user-circle"></i> 應數所 **Coldjoke123**
+:::
+::: col-half
+<i class="fas fa-user-circle"></i> **hiyori9977**<br>
+<i class="fas fa-user-circle"></i> 園藝四 **HippoCO**
+:::
+::::::
 ## <i class="fas fa-graduation-cap"></i> 畢業季限定
 ### Minecraft 遊戲造型
 :::important

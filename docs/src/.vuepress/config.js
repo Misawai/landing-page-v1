@@ -43,6 +43,10 @@ module.exports = {
          text: '作者群',
          link: '/team/'
        },
+       {
+         text: '素材下載',
+         link: '/wallpaper/'
+       },
       // {
       //   text: '送我們一些椰子 🥥',
       //   link: 'https://paypal.me/maxchou'

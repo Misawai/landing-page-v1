@@ -162,6 +162,22 @@ sidebar: auto
 [**<i class="fas fa-download"></i> 下載**](/images/background/downloads/b_a4.jpg)
 :::
 ::::::
+#### <i class="fas fa-hammer"></i> 製作群
+:::::: col-wrapper
+::: col-half
+<i class="fas fa-user-circle"></i> 法律一 翁同學 **masterBou0127**<br>
+<i class="fas fa-user-circle"></i> 心理四 藍同學 **kira_makarova**<br>
+<i class="fas fa-user-circle"></i> 應數所 **Coldjoke123**<br>
+<i class="fas fa-user-circle"></i> **hiyori9977**
+:::
+::: col-half
+<i class="fas fa-user-circle"></i> 園藝四 **HippoCO**<br>
+<i class="fas fa-user-circle"></i> 機械所 許鈞智 **GSBAce**<br>
+<i class="fas fa-user-circle"></i> 工海三 張博皓 **jc_hiroto**<br>
+<i class="fas fa-user-circle"></i> 公衛系 薛同學 **Muxxi4real**
+:::
+::::::
+
 ### 城中巴士
 ![](/images/background/b_bus-500x.jpg)<br>
 [**<i class="fas fa-download"></i> 下載**](/images/background/downloads/b_bus.jpg)
@@ -181,6 +197,4 @@ sidebar: auto
 ::::::
 ## <i class="fas fa-graduation-cap"></i> 畢業季限定
 ### Minecraft 遊戲造型
-:::important
-Coming Soon...
-:::
+Coming Soon.......

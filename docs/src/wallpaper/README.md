@@ -197,6 +197,4 @@ sidebar: auto
 ::::::
 ## <i class="fas fa-graduation-cap"></i> 畢業季限定
 ### Minecraft 遊戲造型
-:::important
-Coming Soon...
-:::
+Coming Soon.......

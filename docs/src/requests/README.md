@@ -7,7 +7,7 @@ sidebar: auto
 ## MineNTU 加入申請
 **請注意！目前僅支援國立臺灣大學教職員生申請加入**
 
-1. 請至[**身份驗證**](/images/wallpaper/downloads/l2.jpg)網站或點選右上角 **我要加入**
+1. 請至[**身份驗證**](https://dashboard.myntu.me/auth)網站或點選右上角 **我要加入🐵**
 以臺灣大學G Suite帳號進行登入。
 2. 登入成功後點選 **使用服務**。
 3. 連結至Discord進行帳號綁定。

@@ -35,5 +35,5 @@
 ## 申請連結
 **送出申請表單則表示同意與遵守以上規定，並了解規章如有變動恕不另行通知。**
 
-[馬上申請！](https://forms.gle/XSyaXqTk6knEvFpUA)
+[馬上申請！](https://dashboard.myntu.me/auth)
 

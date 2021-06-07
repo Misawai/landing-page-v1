@@ -57,7 +57,7 @@ module.exports = {
       },
       {
         text: '我要加入 🐵',
-        link: 'https://forms.gle/XSyaXqTk6knEvFpUA'
+        link: 'https://dashboard.myntu.me/auth'
       }
     ],
     sidebar: {

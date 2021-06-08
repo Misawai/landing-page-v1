@@ -25,7 +25,7 @@
 
 [公告與守則](/terms-and-conditions/)
 
-## 頻道與權限申請規則 
+## 頻道與權限申請規則
 > 對於創造力豐富的你，你會需要知道的！
 
 閱讀完畢**申請規則**，並同意遵守亦可繼續申請。
@@ -35,5 +35,5 @@
 ## 申請連結
 **送出申請表單則表示同意與遵守以上規定，並了解規章如有變動恕不另行通知。**
 
-[馬上申請！](https://dashboard.myntu.me/auth)
-
+[<i class="fas fa-pen-nib"></i> 馬上申請！](https://dashboard.myntu.me/auth)<br>
+[<i class="fab fa-discord"></i> 加入我們的 Discord！](https://discord.gg/k4mUUHMHRv)<br>

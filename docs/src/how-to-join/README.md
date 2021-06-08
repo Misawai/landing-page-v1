@@ -13,8 +13,6 @@
 6. 如查核後發現資格不符合申請規定或資料模糊、無法辨識，我們將請你提供必要資料以供複查。
 7. 申請者經管理員同意後，亦可加入。
 
-- 申請送出後，如身份確認通過，我們將盡快為您開通帳號。
-  - 等待三天且未收到任何身份複查訊息者，請向 [MineNTU 粉絲專頁](https://facebook.com/MineNTU) 聯繫。
 - 國立臺灣大學以外之國立臺灣大學聯盟內成員、跨校雙主修學生請關注我們 [MineNTU 粉絲專頁](https://facebook.com/MineNTU) 或 [NTU台大學生交流版](https://www.facebook.com/groups/NTU.Head) 。
 
 ## 公告與守則
@@ -28,12 +26,25 @@
 ## 頻道與權限申請規則
 > 對於創造力豐富的你，你會需要知道的！
 
-閱讀完畢**申請規則**，並同意遵守亦可繼續申請。
+閱讀完畢**頻道與權限申請規則**，並同意遵守亦可繼續申請。
 
-[申請規則](/requests/)
+[頻道與權限申請規則](/requests/)
+
+## 如何加入 MineNTU
+**請注意！目前僅支援國立臺灣大學教職員生申請加入**
+
+1. 點選右上角 **我要加入🐵**，以臺灣大學G Suite帳號進行登入。
+2. 登入成功後點選 **使用服務**。
+3. 連結至Discord進行帳號綁定。（請務必先加入[我們的 Discord](https://discord.gg/k4mUUHMHRv)）
+4. 綁定成功請回原本頁面輸入您的 `Minecraft ID`。
+5. 確認ID之後送出即完成身份驗證，祝遊玩愉快！
+<p style="color:gray;">*更詳細步驟請見 Discord 中的公告頻道。*</p>
+
+**如有出現錯誤訊息、或無法使用臺大 GSuite 者，請聯絡粉專或 Discord 管理員。**
+
 
 ## 申請連結
-**送出申請表單則表示同意與遵守以上規定，並了解規章如有變動恕不另行通知。**
+**加入後則表示同意與遵守以上規定，並了解規章如有變動恕不另行通知。**
 
 [<i class="fas fa-pen-nib"></i> 馬上申請！](https://dashboard.myntu.me/auth)<br>
 [<i class="fab fa-discord"></i> 加入我們的 Discord！](https://discord.gg/k4mUUHMHRv)<br>

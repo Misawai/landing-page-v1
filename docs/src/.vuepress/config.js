@@ -32,11 +32,15 @@ module.exports = {
     logo: '/images/minentu-logo.png',
     nav: [
       {
+        text: '如何加入',
+        link: '/how-to-join/',
+      },
+      {
         text: '公告與守則',
         link: '/terms-and-conditions/',
       },
       {
-        text: '申請規則',
+        text: '頻道與權限申請規則',
         link: '/requests/'
       },
       {

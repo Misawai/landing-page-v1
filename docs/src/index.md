@@ -7,8 +7,19 @@ actionLink: /how-to-join/
 footer: Made by 🐵 (Team MineNTU) with 🌴 🥥 .
 ---
 
-**⚠️ 因目前伺服器資源有限，目前只開放國立臺灣大學員生（包含中研院於臺大）及校友註冊。**
+---
+# 線上回臺大！
+疫情期間，已經忘記臺大校園長什麼樣子了嗎？<br>
+無論是總圖大門前那些社交距離為負值的同學們，還是我們熟悉的博雅教學館，都在 **MineNTU** 裡面一一重現。
 
-# Introduction 🚲
-**MineNTU** 是專屬於臺大生的 Minecraft 伺服器，由一群 **~~沒事做的臺大猴~~** 臺大學生創立、管理。目前有一個創造伺服器，大家都在裡面蓋臺大。
+不能來臺大，也能來臺大麥塊！**Build NTU and STAY SAFE!**
+
+**尚未支援 NPC** ＸＤ
+<video
+  autoplay
+  muted
+  preload="auto"
+  width="100%">
+  <source src="https://assets.myntu.me.sfo3.cdn.digitaloceanspaces.com/minentu/minentu-promotion-v1.mov#t=5.2,32">
+</video>
 

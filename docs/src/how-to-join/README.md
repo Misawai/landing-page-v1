@@ -35,13 +35,15 @@
 
 1. 點選右上角 **我要加入🐵**，以臺灣大學G Suite帳號進行登入。
 2. 登入成功後點選 **使用服務**。
-3. 連結至Discord進行帳號綁定。（請務必先加入[我們的 Discord](https://discord.gg/k4mUUHMHRv)）
+3. 連結至Discord進行帳號綁定。（請務必先加入 [我們的 Discord](https://bit.ly/359oLlv)）
 4. 綁定成功請回原本頁面輸入您的 `Minecraft ID`。
 5. 確認ID之後送出即完成身份驗證，祝遊玩愉快！
 <p style="color:gray;">*更詳細步驟請見 Discord 中的公告頻道。*</p>
 
 **如有出現錯誤訊息、或無法使用臺大 GSuite 者，請聯絡粉專或 Discord 管理員。**
 
+## 申請遇到問題嗎？
+請詳閱 [帳號驗證平台使用說明](/instructions) 。
 
 ## 申請連結
 **加入後則表示同意與遵守以上規定，並了解規章如有變動恕不另行通知。**

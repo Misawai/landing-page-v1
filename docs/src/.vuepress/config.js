@@ -14,7 +14,8 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css' }]
+    ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css' }],
+    ['link', { rel: 'stylesheet', href: 'https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css' }]
   ],
 
   /**
@@ -40,10 +41,6 @@ module.exports = {
         link: '/terms-and-conditions/',
       },
       {
-        text: '頻道與權限申請規則',
-        link: '/requests/'
-      },
-      {
          text: '作者群',
          link: '/team/'
        },
@@ -51,6 +48,10 @@ module.exports = {
          text: '素材下載',
          link: '/wallpaper/'
        },
+       {
+        text: 'Hiring',
+        link: '/we-are-hiring/'
+      },
       // {
       //   text: '送我們一些椰子 🥥',
       //   link: 'https://paypal.me/maxchou'

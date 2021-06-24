@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/minentu-banner.png
 tagline: null
-actionText: 🎓 畢業典禮傳送門
+actionText: 畢業典禮傳送門 🎓
 actionLink: /graduation/
 footer: Made by 🐵 (Team MineNTU) with 🌴 🥥 .
 ---

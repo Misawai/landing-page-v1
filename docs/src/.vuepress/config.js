@@ -30,7 +30,7 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    logo: '/images/minentu-logo.png',
+    logo: '/images/minentu-grad-logo.png',
     nav: [
       {
         text: '畢業典禮 🎓',

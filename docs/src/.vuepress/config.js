@@ -33,6 +33,10 @@ module.exports = {
     logo: '/images/minentu-logo.png',
     nav: [
       {
+        text: '畢業典禮',
+        link: '/graduation/',
+      },
+      {
         text: '如何加入',
         link: '/how-to-join/',
       },
@@ -48,18 +52,18 @@ module.exports = {
          text: '素材下載',
          link: '/wallpaper/'
        },
-       {
-        text: 'Hiring',
-        link: '/we-are-hiring/'
-      },
+      //  {
+      //   text: 'Hiring',
+      //   link: '/we-are-hiring/'
+      // },
       // {
       //   text: '送我們一些椰子 🥥',
       //   link: 'https://paypal.me/maxchou'
       // },
-      {
-        text: '猴園線上看',
-        link: 'https://bluemine.myntu.me/#world:41:90:-616:94:0:0.89:0:0:perspective'
-      },
+      // {
+      //   text: '猴園線上看',
+      //   link: 'https://bluemine.myntu.me/#world:41:90:-616:94:0:0.89:0:0:perspective'
+      // },
       {
         text: '我要加入 🐵',
         link: 'https://dashboard.myntu.me/auth'

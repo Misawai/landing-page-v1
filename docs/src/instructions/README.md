@@ -29,7 +29,7 @@ NTU G Suite 登入 -> 連結 Discord -> 連結 Minecraft ID -> 完成
 
 1. 姓名。
 2. 註冊時的電子郵件。
-3. 國立臺灣大學身分證明文件（請參考 [伺服器與 Discord 頻道申請資格](http://localhost:8080/terms-and-conditions/#%E4%BC%BA%E6%9C%8D%E5%99%A8%E8%88%87-discord-%E9%A0%BB%E9%81%93%E7%94%B3%E8%AB%8B%E8%B3%87%E6%A0%BC)）。
+3. 國立臺灣大學身分證明文件（請參考 [伺服器與 Discord 頻道申請資格](https://minecraft.myntu.me/terms-and-conditions/#%E4%BC%BA%E6%9C%8D%E5%99%A8%E8%88%87-discord-%E9%A0%BB%E9%81%93%E7%94%B3%E8%AB%8B%E8%B3%87%E6%A0%BC)）。
 4. 學號（包含系級更好）或員工編號。
 
 例如：

@@ -33,6 +33,10 @@ module.exports = {
     logo: '/images/minentu-logo.png',
     nav: [
       {
+        text: '畢業典禮 🎓',
+        link: '/graduation/',
+      },
+      {
         text: '如何加入',
         link: '/how-to-join/',
       },
@@ -44,14 +48,14 @@ module.exports = {
          text: '作者群',
          link: '/team/'
        },
-       {
-         text: '素材下載',
-         link: '/wallpaper/'
-       },
-       {
-        text: 'Hiring',
-        link: '/we-are-hiring/'
-      },
+       // {
+       //   text: '素材下載',
+       //   link: '/wallpaper/'
+       // },
+      //  {
+      //   text: 'Hiring',
+      //   link: '/we-are-hiring/'
+      // },
       // {
       //   text: '送我們一些椰子 🥥',
       //   link: 'https://paypal.me/maxchou'

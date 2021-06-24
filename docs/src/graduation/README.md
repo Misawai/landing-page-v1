@@ -1,5 +1,7 @@
 ---
 sidebar: auto
+image: https://minecraft.myntu.me/images/minentu-grad-banner.png
+description: 深陷期末考地獄的你，對即將到來的畢典也興致缺缺嗎？打破線上活動 0 互動的傳統，這場互動畢典不只有互動、有校園、還有那些你我都懂的回憶！
 ---
 # MineNTU 畢業典禮
 

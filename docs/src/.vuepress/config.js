@@ -33,7 +33,7 @@ module.exports = {
     logo: '/images/minentu-logo.png',
     nav: [
       {
-        text: '畢業典禮',
+        text: '畢業典禮 🎓',
         link: '/graduation/',
       },
       {

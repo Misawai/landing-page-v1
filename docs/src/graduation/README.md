@@ -71,7 +71,23 @@ description: 深陷期末考地獄的你，對即將到來的畢典也興致缺�
 ::::::
 
 ## 活動嘉賓
-Coming Soon...
+國立臺灣大學&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;校長&emsp;&emsp;管中閔<br>
+國立臺灣大學&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;學務長&emsp;汪詩珮<br>
+台灣微軟公共業務事業群&ensp; 總經理&emsp;Patrick<br>
+經濟部工業局&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;局長&emsp;&emsp;呂正華<br>
+經濟部工業局電子資訊組&ensp;&thinsp;&thinsp;組長&emsp;&emsp;林俊秀<br>
+經濟部工業局電子資訊組&ensp;&thinsp;&thinsp;副組長&emsp;顏鳳旗<br>
+經濟部工業局電子資訊組&ensp;科長&emsp;&emsp;&thinsp;&thinsp;林青嶔<br>
+資策會地方創生服務處&emsp;&ensp;處長&emsp;&emsp;&thinsp;&thinsp;洪毓祥<br>
+資策會地方創生服務處&emsp;&ensp;副處長&emsp;&thinsp;洪毓良<br>
+資策會地方創生服務處&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;Carrie<br>
+資策會地方創生服務處&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;Amos<br>
+資策會地方創生服務處&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;Sandy<br>
+電獺  共同創辦人兼執行長&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;謝綸 Konois Xie<br>
+臺北市松信區市議員&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;呱吉<br>
+臺大資管系&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;教授&emsp;&emsp;&thinsp;孔令傑<br>
+YouTuber&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;巧克白<br>
+YouTuber&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;阿滴<br>
 
 ## 如何報名
 

@@ -33,8 +33,8 @@ module.exports = {
     logo: '/images/minentu-grad-logo.png',
     nav: [
       {
-        text: '畢業典禮 🎓',
-        link: '/graduation/',
+        text: '畢業典禮直播間 🎓',
+        link: '/graduation/broadcast',
       },
       {
         text: '如何加入',
@@ -70,6 +70,12 @@ module.exports = {
       }
     ],
     sidebar: {
+    }
+  },
+
+  markdown: {
+    plugins: {
+      '@centerforopenscience/markdown-it-video': {}
     }
   },
 

@@ -19,6 +19,7 @@
     "vuepress-plugin-seo": "^0.1.4"
   },
   "dependencies": {
+    "@centerforopenscience/markdown-it-video": "^1.0.0",
     "@vuepress/plugin-google-analytics": "^1.8.2",
     "vuepress-plugin-container": "^2.1.5",
     "vuepress-plugin-sitemap": "^2.3.1"

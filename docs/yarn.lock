@@ -903,6 +903,11 @@
     "@babel/helper-validator-identifier" "^7.14.0"
     to-fast-properties "^2.0.0"
 
+"@centerforopenscience/markdown-it-video@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@centerforopenscience/markdown-it-video/-/markdown-it-video-1.0.0.tgz#4c1ab932ccb25c17a8992daa12168d0aea622664"
+  integrity sha512-6TOHqcRy7eg09aCcXLYCvLk87eMuFB8P1rBonpjJPcz++FQdEL5834c1Vq8vCePabKY2Scg3DNagRIblagXjXg==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
